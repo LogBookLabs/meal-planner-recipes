@@ -1,0 +1,30 @@
+{
+  "id": "cfc4ee2a-3e5b-418e-8c1b-f4f2d2ad7f46",
+  "name": "GG's buttered noodles",
+  "ingredients": [
+    "huiewfoihu"
+  ],
+  "instructions": "kbewihf9hgfoihfvnbonc ipowqdi[-0dewlk",
+  "category": "Dinner",
+  "cuisine": "dog",
+  "diet": [
+    "[\"keto\"]"
+  ],
+  "cookTime": 30,
+  "prepTime": 10,
+  "servings": 1,
+  "calories": {
+    "value": 450,
+    "estimated": true
+  },
+  "protein": {
+    "value": 32,
+    "estimated": true
+  },
+  "image": "recipes/submissions/pending/cfc4ee2a-3e5b-418e-8c1b-f4f2d2ad7f46/image.jpg",
+  "profilePhoto": null,
+  "submittedBy": "Corey B",
+  "dateAdded": "2026-05-02T13:18:27.419Z",
+  "approvedBy": null,
+  "approvedAt": null
+}
