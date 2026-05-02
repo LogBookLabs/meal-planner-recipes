@@ -1,0 +1,30 @@
+{
+  "id": "1aed15ea-b77a-4e52-a76c-ff31b3b95926",
+  "name": "umtjy",
+  "ingredients": [
+    "yjtjyt"
+  ],
+  "instructions": "yjtjyt",
+  "category": "Dinner",
+  "cuisine": "yjt",
+  "diet": [
+    "[\"jty\"]"
+  ],
+  "cookTime": 452,
+  "prepTime": 14,
+  "servings": 4527,
+  "calories": {
+    "value": 52,
+    "estimated": false
+  },
+  "protein": {
+    "value": 524,
+    "estimated": false
+  },
+  "image": "recipes/submissions/pending/1aed15ea-b77a-4e52-a76c-ff31b3b95926/image.jpg",
+  "profilePhoto": null,
+  "submittedBy": "yjtjyt",
+  "dateAdded": "2026-05-02T15:27:32.188Z",
+  "approvedBy": null,
+  "approvedAt": null
+}
